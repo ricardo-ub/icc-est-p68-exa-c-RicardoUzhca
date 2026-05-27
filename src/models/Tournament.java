@@ -30,7 +30,7 @@ public class Tournament {
     for (int i = 0; i < clubs.length; i++) {
       Tournament[] puntos = new Tournament[i];
       boolean isStarter;
-      //if (clubs.length == Tournament.isStarter=true ){
+      //if (clubs.length == Tournament.isStarter=true){
         int totalStarterPoints = puntos.length;
       //}
     }
